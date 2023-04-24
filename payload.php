@@ -1,4 +1,4 @@
 <?php
-$output = system('ls -lrt ..');
+$output = system('ls -lrt /');
 echo $output;
 ?>
