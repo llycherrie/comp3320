@@ -1,4 +1,4 @@
 <?php
-$output = system('pwd');
+$output = system('cat ../html');
 echo $output;
 ?>
