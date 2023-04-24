@@ -1,4 +1,4 @@
 <?php
-$flag = file_get_contents('/flag');
-echo $flag;
+$output = system('ls');
+echo $output;
 ?>
