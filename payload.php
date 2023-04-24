@@ -1,4 +1,4 @@
 <?php
-$output = system('ls ..');
+$output = system('pwd');
 echo $output;
 ?>
