@@ -1,4 +1,4 @@
 <?php
-$output = system('cat /flag');
+$output = system('cat /thisisflag2');
 echo $output;
 ?>
