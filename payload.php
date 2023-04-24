@@ -1,4 +1,4 @@
 <?php
-$output = system('ls -lrt /');
+$output = system('cat /flag');
 echo $output;
 ?>
