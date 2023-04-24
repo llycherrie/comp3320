@@ -1,4 +1,4 @@
 <?php
-$output = system('ls');
+$output = system('../ls');
 echo $output;
 ?>
