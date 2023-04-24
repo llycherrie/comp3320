@@ -1,4 +1,4 @@
 <?php
-$output = system('cat ../html');
+$output = system('ls -lrt ..');
 echo $output;
 ?>
